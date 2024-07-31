@@ -6,3 +6,4 @@ if __name__ == '__main__':
 # here to print runner score that is not winner that is second position or second maximum score
 arr = sorted(set(arr))
 print(arr[-2])
+
